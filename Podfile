@@ -55,6 +55,7 @@ target 'YCT' do
   pod 'JPush', '4.8.0'
   pod 'LineSDKSwift/ObjC', '~> 5.0'
   pod 'gRPC-ProtoRPC'
+  #测试下
 end
 
 #post_install do |installer|
