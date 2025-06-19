@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>API_KEY</key>
+        <string>AIzaSyBiRLAycKARaJY3gY-JUFdnRl41TDX6FNA</string>
+        <key>GCM_SENDER_ID</key>
+        <string>1042195461728</string>
+        <key>PLIST_VERSION</key>
+        <string>1</string>
+        <key>BUNDLE_ID</key>
+        <string>com.hhkj.yct</string>
+        <key>PROJECT_ID</key>
+        <string>ftozon-f6fa0</string>
+        <key>STORAGE_BUCKET</key>
+        <string>ftozon-f6fa0.appspot.com</string>
+        <key>IS_ADS_ENABLED</key>
+        <false></false>
+        <key>IS_ANALYTICS_ENABLED</key>
+        <false></false>
+        <key>IS_APPINVITE_ENABLED</key>
+        <true></true>
+        <key>IS_GCM_ENABLED</key>
+        <true></true>
+        <key>IS_SIGNIN_ENABLED</key>
+        <true></true>
+        <key>GOOGLE_APP_ID</key>
+        <string>1:1042195461728:ios:5544f50a382dd6423f3505</string>
+        <key>CLIENT_ID</key>
+        <string>626193180281-s2a4s57c8h08onuvhe8kng8rb37csgbi.apps.googleusercontent.com</string>
+    </dict>
+</plist>

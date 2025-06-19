@@ -1,0 +1,37 @@
+//
+//  YCTApiWatchVideo.m
+//  YCT
+//
+//  Created by hua-cloud on 2022/2/14.
+//
+
+#import "YCTApiWatchVideo.h"
+
+@implementation YCTApiWatchVideo{
+    NSString * _videoId;
+}
+
+- (instancetype)initWithVideoId:(NSString *)videoId{
+    self = [super init];
+    if (self) {
+        _videoId = videoId;
+    }
+    return self;
+}
+
+- (NSString *)requestUrl {
+    return @"/index/home/watchVideo";
+}
+
+- (YTKRequestMethod)requestMethod {
+   return YTKRequestMethodPOST;
+}
+
+- (NSDictionary *)yct_requestArgument {
+    return @{
+        @"videoId": YCTString(_videoId, @""),
+    };
+}
+
+
+@end

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="BGMTopShowView" customModule="UGCKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6jq-Af-TKX">
+                    <rect key="frame" x="117" y="59" width="159" height="40"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VbD-1U-5r0">
+                            <rect key="frame" x="0.0" y="0.0" width="114" height="40"/>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="plain"/>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wAm-LL-jbt">
+                            <rect key="frame" x="117" y="0.0" width="42" height="40"/>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="plain"/>
+                        </button>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="addMusicIcon" translatesAutoresizingMaskIntoConstraints="NO" id="a37-kl-Iqa">
+                            <rect key="frame" x="15" y="11.333333333333327" width="15" height="17.333333333333329"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="15" id="9pV-gq-dcZ"/>
+                                <constraint firstAttribute="height" constant="17.5" id="U7n-JG-rS6"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="嘟嘟哒哒..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Ws-xo-wDe">
+                            <rect key="frame" x="37.666666666666657" y="12.666666666666671" width="63.333333333333343" height="15"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aF1-bS-R6C">
+                            <rect key="frame" x="116" y="0.0" width="1" height="40"/>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.20000000000000001" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="1" id="Sx7-Rc-dOU"/>
+                            </constraints>
+                        </view>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="addMusicCloseIcon" translatesAutoresizingMaskIntoConstraints="NO" id="IRC-oO-oS9">
+                            <rect key="frame" x="132" y="14" width="12" height="12"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="12" id="IVp-Nw-u2g"/>
+                                <constraint firstAttribute="width" constant="12" id="d7M-id-b22"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="VbD-1U-5r0" firstAttribute="top" secondItem="6jq-Af-TKX" secondAttribute="top" id="0n1-E4-I0w"/>
+                        <constraint firstItem="wAm-LL-jbt" firstAttribute="top" secondItem="6jq-Af-TKX" secondAttribute="top" id="5jm-AX-HLe"/>
+                        <constraint firstItem="a37-kl-Iqa" firstAttribute="centerY" secondItem="6jq-Af-TKX" secondAttribute="centerY" id="7Sn-IX-XhU"/>
+                        <constraint firstItem="a37-kl-Iqa" firstAttribute="leading" secondItem="6jq-Af-TKX" secondAttribute="leading" constant="15" id="8kD-yn-dxy"/>
+                        <constraint firstAttribute="width" constant="159" id="A9k-Lv-GzW"/>
+                        <constraint firstAttribute="bottom" secondItem="VbD-1U-5r0" secondAttribute="bottom" id="BgS-Gu-Ug5"/>
+                        <constraint firstItem="aF1-bS-R6C" firstAttribute="leading" secondItem="1Ws-xo-wDe" secondAttribute="trailing" constant="15" id="DiN-QZ-CvG"/>
+                        <constraint firstAttribute="trailing" secondItem="VbD-1U-5r0" secondAttribute="trailing" constant="45" id="FKW-SG-WxK"/>
+                        <constraint firstItem="aF1-bS-R6C" firstAttribute="centerY" secondItem="6jq-Af-TKX" secondAttribute="centerY" id="ISB-GN-UI7"/>
+                        <constraint firstAttribute="trailing" secondItem="wAm-LL-jbt" secondAttribute="trailing" id="Ldu-s8-0wm"/>
+                        <constraint firstItem="wAm-LL-jbt" firstAttribute="leading" secondItem="aF1-bS-R6C" secondAttribute="trailing" id="Lk0-xf-lht"/>
+                        <constraint firstItem="VbD-1U-5r0" firstAttribute="leading" secondItem="6jq-Af-TKX" secondAttribute="leading" id="T4t-bP-3jH"/>
+                        <constraint firstItem="1Ws-xo-wDe" firstAttribute="leading" secondItem="a37-kl-Iqa" secondAttribute="trailing" constant="7.5" id="TjD-zb-sdK"/>
+                        <constraint firstItem="IRC-oO-oS9" firstAttribute="centerY" secondItem="6jq-Af-TKX" secondAttribute="centerY" id="XLZ-17-Uok"/>
+                        <constraint firstItem="aF1-bS-R6C" firstAttribute="top" secondItem="6jq-Af-TKX" secondAttribute="top" id="XXj-Pz-80A"/>
+                        <constraint firstAttribute="trailing" secondItem="IRC-oO-oS9" secondAttribute="trailing" constant="15" id="bHQ-MZ-J7d"/>
+                        <constraint firstItem="IRC-oO-oS9" firstAttribute="leading" secondItem="aF1-bS-R6C" secondAttribute="trailing" constant="15" id="jrb-TX-w0u"/>
+                        <constraint firstAttribute="bottom" secondItem="wAm-LL-jbt" secondAttribute="bottom" id="mDZ-vA-Qix"/>
+                        <constraint firstAttribute="bottom" secondItem="aF1-bS-R6C" secondAttribute="bottom" id="mmM-bx-MdD"/>
+                        <constraint firstItem="1Ws-xo-wDe" firstAttribute="centerY" secondItem="6jq-Af-TKX" secondAttribute="centerY" id="nQH-rT-NLf"/>
+                        <constraint firstAttribute="height" constant="40" id="s3f-wa-mN2"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mNy-oI-URV">
+                    <rect key="frame" x="139" y="79" width="115" height="40"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7RX-GL-maD">
+                            <rect key="frame" x="0.0" y="0.0" width="115" height="40"/>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="plain"/>
+                        </button>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="addMusicIcon" translatesAutoresizingMaskIntoConstraints="NO" id="TGT-5b-Xgo">
+                            <rect key="frame" x="15" y="11.333333333333327" width="15" height="17.333333333333329"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="15" id="Wwn-Lf-kdW"/>
+                                <constraint firstAttribute="height" constant="17.5" id="vaR-LS-irB"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="嘟嘟哒哒..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wYv-Pg-s1q">
+                            <rect key="frame" x="37.666666666666657" y="12.666666666666671" width="62.333333333333343" height="15"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="TGT-5b-Xgo" firstAttribute="centerY" secondItem="mNy-oI-URV" secondAttribute="centerY" id="12z-Hp-YIH"/>
+                        <constraint firstItem="TGT-5b-Xgo" firstAttribute="leading" secondItem="mNy-oI-URV" secondAttribute="leading" constant="15" id="2hI-D3-4z6"/>
+                        <constraint firstItem="wYv-Pg-s1q" firstAttribute="leading" secondItem="TGT-5b-Xgo" secondAttribute="trailing" constant="7.5" id="7H6-9E-k5s"/>
+                        <constraint firstAttribute="width" constant="115" id="7vG-Nn-uCF"/>
+                        <constraint firstItem="7RX-GL-maD" firstAttribute="top" secondItem="mNy-oI-URV" secondAttribute="top" id="FkK-ef-1R0"/>
+                        <constraint firstAttribute="trailing" secondItem="wYv-Pg-s1q" secondAttribute="trailing" constant="15" id="Gw1-Ye-41x"/>
+                        <constraint firstAttribute="bottom" secondItem="7RX-GL-maD" secondAttribute="bottom" id="LMt-ka-EZe"/>
+                        <constraint firstAttribute="height" constant="40" id="OBy-uW-EXX"/>
+                        <constraint firstItem="7RX-GL-maD" firstAttribute="leading" secondItem="mNy-oI-URV" secondAttribute="leading" id="fuu-lj-kZK"/>
+                        <constraint firstItem="wYv-Pg-s1q" firstAttribute="centerY" secondItem="mNy-oI-URV" secondAttribute="centerY" id="umP-Ba-QDM"/>
+                        <constraint firstAttribute="trailing" secondItem="7RX-GL-maD" secondAttribute="trailing" id="xDB-wS-n3D"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <constraints>
+                <constraint firstItem="6jq-Af-TKX" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="4TB-Sx-omQ"/>
+                <constraint firstItem="6jq-Af-TKX" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="HXl-4q-nQw"/>
+                <constraint firstItem="mNy-oI-URV" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Lg5-CB-Jbi"/>
+                <constraint firstItem="mNy-oI-URV" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="20" id="Wdb-tU-QwA"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="addBgVw" destination="mNy-oI-URV" id="cq8-II-Z6s"/>
+                <outlet property="addBtn" destination="7RX-GL-maD" id="faY-Uw-egy"/>
+                <outlet property="addLb" destination="wYv-Pg-s1q" id="iGR-9n-GDc"/>
+                <outlet property="useBgVw" destination="6jq-Af-TKX" id="hFT-KD-cO4"/>
+                <outlet property="useBtn" destination="VbD-1U-5r0" id="lSq-1s-mQv"/>
+                <outlet property="useCloseBtn" destination="wAm-LL-jbt" id="W4i-Kt-exT"/>
+                <outlet property="useLb" destination="1Ws-xo-wDe" id="Dtw-VK-cJ7"/>
+            </connections>
+            <point key="canvasLocation" x="-34.351145038167935" y="19.718309859154932"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="addMusicCloseIcon" width="30" height="30"/>
+        <image name="addMusicIcon" width="30.333333969116211" height="35.333332061767578"/>
+    </resources>
+</document>

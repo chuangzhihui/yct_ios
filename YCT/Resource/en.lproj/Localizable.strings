@@ -1,0 +1,274 @@
+/*
+  Localizable.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/9.
+  
+*/
+
+"tabHome" = "Home";
+"tabPost" = "Post";
+"tabNews" = "Live";
+"tabMine" = "Me";
+
+"Delete" = "Delete";
+
+//Guide
+"guide.skip" = "Skip";
+"guide.toptitle" = "Language";
+"guide.subtitle" = "You can go to Me-More-Language to change Language after setting";
+
+// Load
+"load.pull" = "Pull up to load more";
+"load.noMore" = "No more~";
+
+// Other
+"action.cancel" = "Cancel";
+"action.confirm" = "Confirm";
+"action.close" = "Close";
+
+// Share
+"share.share" = "Share";
+"share.shared" = "Shared";
+"share.private" = "Message";
+"share.friends" = "Friends circle";
+"share.weChat" = "Wechat";
+"share.zalo" = "Zalo";
+"share.save" = "Save";
+"share.collect" = "Favorite";
+"share.report" = "Report";
+"share.like" = "Like";
+"share.dislike" = "Not interested";
+"share.blacklist" = "Block";
+"share.blacklistSuccess" = "Blocked";
+"share.collected" = "Unfavorite";
+"share.liked" = "Unlike";
+"share.saveSuccess" = "Saved";
+"share.saveFailed" = "Save failed";
+"share.title" = "Share with friends";
+"share.placeholder.input" = "Anything you'd like to share with friedns...";
+"share.send" =  "Send";
+"share.more" = "More";
+"share.delete" = "Delete";
+"share.MoreOperations" = "More actions";
+"share.remark" = "Set notes";
+"video.clickOnTheFullScreen" = "Click for Full Screen";
+"lbs.disableToust" = "Please go to the setting to enable location permissions";
+"lbs.cancel" = "OK";
+"lbs.goset" = "Go to the setting";
+
+// placeholder
+"placeholder.search" = "Search";
+
+"request.error" = "Network error.Please try again later";
+
+// alert
+"alert.logout" = "Log out?";
+"alert.loginFailed" = "Login Filed~";
+"alert.addBlacklist" = "Add to blacklist?";
+"alert.sendSuccess" = "Sent";
+"alert.shareSuccess" = "Shared";
+"alert.shareFailed" = "Share failed";
+"alert.location" = "Locate failed~";
+"alert.postNeedAuth" = "Supply and demand can be posted after successful pedning of the updated data";
+"alert.publishVideoNeedAuth" = "The video can be released after the successful pedning of the updated data";
+
+"time.aMomentAgo" = "A moment ago";
+"time.minutesAgo" = "Mins ago";
+"time.hoursAgo" = "Hours ago";
+"time.daysAgo" = "Days ago";
+
+"alert.paste" = "Copied to the pasteboard";
+
+"video.collection" = "Favorited";
+"video.cancelCollection" = "Unfavorited";
+"video.playCount" = "Play";
+"comment.nocomment" = "No comments yet~";
+"comment.comment" = "Comment";
+"comment.pub" = "Publish";
+
+// empty
+"empty.works" = "No released video~";
+"empty.likes" = "No likes~";
+"empty.collection" = "No favorite~";
+"empty.draft" = "No draft~";
+"empty.post" = "No post~";
+"empty.fans" = "No follower~";
+"empty.follow" = "No following~";
+"empty.interactionMsg" = "No interaction~";
+"empty.systemMsg" = "No system info~";
+"empty.error.info" = "Please click and try again~";
+"feedBack.informPlaceHolder" = "Please give a detailed description of the reason for reporting.You can fill in a maximum of 200 words~";
+"feedBack.informTypeTitle" = "Select the violation type";
+"feedBack.informDes" = "Description of Reporting";
+"feedBack.informTitle" = "Report";
+"feedBack.commit" = "Commit";
+"feedBack.reusltDesc" = "The question you submitted has been received.Please wait for feedback~";
+"copyToBoard" = "Copied to the clipboard";
+
+// Search Module
+"By Product Name" = "By Product Name";
+"By HS Code" = "By HS Code";
+"Search" = "Search";
+"Reset" = "Reset";
+"Advance Filters" = "Advance Filters";
+"Data Type" = "Data Type";
+"Supplier" = "Supplier";
+"Buyer" = "Buyer";
+"Enter the product name" = "Enter the product name";
+"Enter a customs code of 6 digits or more" = "Enter a customs code of 6 digits or more";
+"Import Data" = "Import Data";
+"Export Data" = "Export Data";
+"Trading hours" = "Trading hours";
+"Purchasing Country" = "Purchasing Country";
+"Supplying Country" = "Supplying Country";
+"Please select supplying country" = "Please select supplying country";
+"Please select purchasing country" = "Please select purchasing country";
+"Port of Entry" = "Port of Entry";
+"Export Port" = "Export Port";
+"Please enter export port" = "Please enter export port";
+"Please enter port of entry" = "Please enter port of entry";
+"success" = "success";
+"failure" = "failure";
+"Please select an item." = "Please select an item.";
+"Please enter buyer's name" = "Please enter buyer's name";
+"Please enter suppplier's name" = "Please enter suppplier's name";
+"Total" = "Total";
+"trade records" = "trade records";
+"No Data Found" = "No Data Found";
+
+"Quantity" = "Quantity";
+"Trading Products" = "Trading Products";
+"Suppliers" = "Suppliers";
+"Buyers" = "Buyers";
+"Weight" = "Weight";
+"Trade Records" = "Trade Records";
+"Trade Information" = "Trade Information";
+"Product status" = "Product status";
+"Buyer Information" = "Buyer Information";
+"Supplier Information" = "Supplier Information";
+"Transaction Date" = "Transaction Date";
+"Bill of Landing Number" = "Bill of Landing Number";
+"Mode of transport" = "Mode of transport";
+"Port of entry" = "Port of entry";
+"Export Port" = "Export Port";
+"HS Code" = "HS Code";
+"Amount (USD)" = "Amount (USD)";
+"Company Name" = "Company Name";
+"Country" = "Country";
+"Company Contact" = "Company Contact";
+"Trade Overview" = "Trade Overview";
+"Transaction Records" = "Transaction Records";
+"Trade Area" = "Trade Area";
+"Trading Ports" = "Trading Ports";
+"Trading Port" = "Trading Port";
+"Monthly" = "Monthly";
+"Yearly" = "Yearly";
+"Number of Transactions" = "Number of Transactions";
+"Transactions Quantity" = "Transactions Quantity";
+"Transaction Weight" = "Transaction Weight";
+"Transaction Times" = "Transaction Times";
+"Transaction Weight" = "Transaction Weight";
+"Transaction Overview" = "Transaction Overview";
+"You have exceed your points limit, please purchase a new plan for explore" = "You have exceed your points limit, please purchase a new plan for explore";
+"Buy" = "Buy";
+"Risk Warning: It is possible that some companies may lack or have no data, or may delay the release of data. Please be aware of this." = "Risk Warning: It is possible that some companies may lack or have no data, or may delay the release of data. Please be aware of this.";
+"What you can explore after buy?" = "What you can explore after buy?";
+"Buyer:" = "Buyer:";
+"Search list" = "Search list";
+"Search for buyers by product name or hscode, return to the buyer\'s company name, total transaction quantity, traded products, hscode (this field is empty), number of transactions that match the keyword, and total number of companies." = "Search for buyers by product name or hscode, return to the buyer\'s company name, total transaction quantity, traded products, hscode (this field is empty), number of transactions that match the keyword, and total number of companies.";
+
+"Buyer Details:" = "Buyer Details:";
+"Transaction overview of the buyer within the past four years." = "Transaction overview of the buyer within the past four years.";
+"Trade partner" = "Trade partner";
+"The buyer\'s trade partner." = "The buyer\'s trade partner.";
+"HSCODE" = "HSCODE";
+"The hscode of the products purchased by the buyer." = "The hscode of the products purchased by the buyer.";
+"Trading Area" = "Trading Area";
+"The trading area of the buyer." = "The trading area of the buyer.";
+"Port Statistics" = "Port Statistics";
+"The buyer\'s trade port." = "The buyer\'s trade port.";
+"Search for buyers by product name or hscode, return to the buyer\'s company name, total transaction quantity, traded products, hscode (this field is empty), number of transactions that match the keyword, and total number of companies." = "Search for buyers by product name or hscode, return to the buyer\'s company name, total transaction quantity, traded products, hscode (this field is empty), number of transactions that match the keyword, and total number of companies.";
+"Supplier Details:" = "Supplier Details:";
+"Transaction overview of the supplier within the past four years." = "Transaction overview of the supplier within the past four years.";
+"The supplier\'s trade partner." = "The supplier\'s trade partner.";
+"The hscode of the products purchased by the supplier." = "The hscode of the products purchased by the supplier.";
+"The trading area of the supplier." = "The trading area of the supplier.";
+"The supplier\'s trade port." = "The supplier\'s trade port.";
+"Contact Information:" = "Contact Information:";
+"Buyer/Supplier" = "Buyer/Supplier";
+"Return to the publicly available contact information of the enterprise, such as official website, email, mobile phone, etc." = "Return to the publicly available contact information of the enterprise, such as official website, email, mobile phone, etc.";
+"Customs Data:" = "Customs Data:";
+"Customs data search list" = "Customs data search list";
+"Searching by using data type, product name/hscode and other parameters, return to customs data list" = "Searching by using data type, product name/hscode and other parameters, return to customs data list";
+"Buyer\'s trade data" = "Buyer\'s trade data";
+"The trade details of the designated buyer, including trading partners, HS codes, trade regions and port statistics." = "The trade details of the designated buyer, including trading partners, HS codes, trade regions and port statistics.";
+"Supplier\'s trade data" = "Supplier\'s trade data";
+"The trade details of the designated supplier, including trading partners , HS codes, trade regions and port statistics." = "The trade details of the designated supplier, including trading partners , HS codes, trade regions and port statistics.";
+"Please Enter " = "Please Enter ";
+"Name" = "Name";
+"Please Enter Product Name" = "Please Enter Product Name";
+"Trading Product" = "Trading Product";
+"Trading hours" = "Trading hours";
+"Trading Ports" = "Trading Ports";
+"B/L Number" = "B/L Number";
+"Country/Region" = "Country/Region";
+"Search" = "Search";
+"Select Country" = "Select Country";
+"Please Enter HS Code" = "Please Enter HS Code";
+"Please Enter Trading Ports" = "Please Enter Trading Ports";
+"Please Enter B/L Number" = "Please Enter B/L Number";
+"Please enter supplier name" = "Please enter supplier name";
+"Please enter Country/Region" = "Please enter Country/Region";
+"Country/Region" = "Country/Region";
+"Supplier Name" = "Supplier Name";
+"Please enter hs code" = "Please enter hs code";
+"Please enter region name" = "Please enter region name";
+"Please enter port name" = "Please enter port name";
+"transaction recods" = "transaction recods";
+"Transaction Year" = "Transaction Year";
+
+"Port Name" = "Port Name";
+"HS Code Name" = "HS Code Name";
+"Region Name" = "Region Name";
+"Number of transactions" = "Number of transactions";
+"Proportion" = "Proportion";
+"Basic" = "Basic";
+"Premium" = "Premium";
+"Enterprise" = "Enterprise";
+"(1 Query)" = "(1 Query)";
+"(30 Query)" = "(30 Query)";
+"(100 Query)" = "(100 Query)";
+"(66.7% off)" = "(66.7% off)";
+"(80% off)" = "(80% off)";
+"Contact Details" = "Contact Details";
+"Official Website" = "Official Website";
+"Social Media" = "Social Media";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+"Youtube" = "Youtube";
+"Contact Information" = "Contact Information";
+"Contact Person/Position" = "Contact Person/Position";
+"Please select payment method!" = "Please select payment method!";
+"Alipay" = "Alipay";
+"PayPal" = "PayPal";
+"HS Code Details" = "HS Code Details";
+"Supplier Details" = "Supplier Details";
+"TradeArea Details" = "TradeArea Details";
+"Trade Port Details" = "Trade Port Details";
+"Details" = "Details";
+"Number of transactions between the two parties" = "Number of transactions between the two parties";
+"The proportion of transactions between the two parties to the total number of transactions of the company" = "The proportion of transactions between the two parties to the total number of transactions of the company";
+
+"Total number of transactions" = "";
+"Latest trading time" = "Latest trading time";
+"Amount" = "Amount";
+"Port of entry" = "Port of entry";
+"View All Data" = "View All Data";
+"Total trade volume by HS code" = "Total trade volume by HS code";
+"The total trade volume of the port" = "The total trade volume of the port";
+"   All    " = "   All    ";
+" Email " = " Email ";
+" Whatsapp " = " Whatsapp ";
+" Telephone " = " Telephone ";
+"trade records between the two parties" = "trade records between the two parties";

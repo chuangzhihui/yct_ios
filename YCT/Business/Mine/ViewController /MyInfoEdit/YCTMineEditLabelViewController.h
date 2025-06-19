@@ -1,0 +1,17 @@
+//
+//  YCTMineEditLabelViewController.h
+//  YCT
+//
+//  Created by 木木木 on 2021/12/25.
+//
+
+#import "YCTBaseViewController.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface YCTMineEditLabelViewController : YCTBaseViewController
+@property (nonatomic, copy) NSArray<NSString *> * _Nullable orginalLabels;
+
+@end
+
+NS_ASSUME_NONNULL_END

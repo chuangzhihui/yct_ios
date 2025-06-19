@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  YCT
+
+  Created by 木木木 on 2021/12/27.
+  
+*/
+
+"CFBundleDisplayName" = "Ftozon";
+"UILaunchStoryboardName" = "LaunchScreen_EN";
+"NSCameraUsageDescription" = "Ftozon Wants to access your camera. It is used to take photos/videos, scan and other functions when publishing videos, improving user information, publishing supply demand information, and feedback problems";
+"NSLocationAlwaysUsageDescription"="Ftozon wants to access your location. It is used to help you fill in your location when publishing supply demand information and improving user information.";
+"NSLocationWhenInUseUsageDescription"="Ftozon wants to access your location. It is used to help you fill in your location when publishing supply demand information and improving user information.";
+"NSPhotoLibraryUsageDescription"="Ftozon wants to access your photo album. It is used to upload and generate videos, improve personal information, improve manufacturer information, save QR code, and select pictures/videos in the album when chatting with other users.";
+"NSMicrophoneUsageDescription"="Ftozon wants to access your microphone. Used to record sound when shooting video.";

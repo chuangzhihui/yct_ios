@@ -1,0 +1,274 @@
+/*
+  Localizable.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/9.
+  
+*/
+
+"tabHome" = "首页";
+"tabPost" = "供需";
+"tabNews" = "直播";
+"tabMine" = "我的";
+
+"Delete" = "删除";
+
+//引导页
+"guide.skip" = "跳过";
+"guide.toptitle" = "请选择语言";
+"guide.subtitle" = "设置后可前往 我的-更多-语言选择 修改";
+
+// 加载
+"load.pull" = "上拉加载更多";
+"load.noMore" = "暂时没有更多了~";
+
+// 其他
+"action.cancel" = "取消";
+"action.confirm" = "确定";
+"action.close" = "关闭";
+
+// 分享
+"share.share" = "分享";
+"share.shared" = "已分享";
+"share.private" = "私信朋友";
+"share.friends" = "朋友圈";
+"share.weChat" = "微信好友";
+"share.zalo" = "Zalo";
+"share.save" = "保存";
+"share.collect" = "收藏";
+"share.report" = "举报";
+"share.like" = "喜欢";
+"share.dislike" = "不感兴趣";
+"share.blacklist" = "加入黑名单";
+"share.blacklistSuccess" = "已加入黑名单";
+"share.collected" = "取消收藏";
+"share.liked" = "取消喜欢";
+"share.saveSuccess" = "保存成功";
+"share.saveFailed" = "保存失败";
+"share.title" = "分享给朋友";
+"share.placeholder.input" = "有什么想跟朋友说的...";
+"share.send" =  "发送";
+"share.more" = "更多";
+"share.delete" = "删除";
+"share.MoreOperations" = "更多操作";
+"share.remark" = "设置备注";
+"video.clickOnTheFullScreen" = "点击全屏";
+"lbs.disableToust" = "请前往设置开启定位权限";
+"lbs.cancel" = "知道了";
+"lbs.goset" = "前往设置";
+
+// placeholder
+"placeholder.search" = "搜索";
+
+"request.error" = "网络出现一点问题，请稍后重试";
+
+// alert
+"alert.logout" = "是否退出登录？";
+"alert.loginFailed" = "授权登录失败~";
+"alert.addBlacklist" = "确认加入黑名单？";
+"alert.sendSuccess" = "发送成功";
+"alert.shareSuccess" = "分享成功";
+"alert.shareFailed" = "分享失败";
+"alert.location" = "定位失败~";
+"alert.postNeedAuth" = "完善资料审核成功后可发布供需";
+"alert.publishVideoNeedAuth" = "完善资料审核成功后可发布视频";
+
+"time.aMomentAgo" = "刚刚";
+"time.minutesAgo" = "分钟前";
+"time.hoursAgo" = "小时前";
+"time.daysAgo" = "天前";
+
+"alert.paste" = "已复制到粘贴板";
+
+"video.collection" = "收藏成功";
+"video.cancelCollection" = "取消收藏成功";
+"video.playCount" = "播放";
+"comment.nocomment" = "暂无相关评论~";
+"comment.comment" = "评论";
+"comment.pub" = "发表";
+
+// empty
+"empty.works" = "暂无发布视频~";
+"empty.likes" = "暂无喜欢视频~";
+"empty.collection" = "暂未收藏视频~";
+"empty.draft" = "暂无草稿~";
+"empty.post" = "暂未发布供需~";
+"empty.fans" = "暂无粉丝~";
+"empty.follow" = "暂无关注~";
+"empty.interactionMsg" = "暂无互动消息~";
+"empty.systemMsg" = "暂无系统消息~";
+"empty.error.info" = "请点击重试~";
+"feedBack.informPlaceHolder" = "请详细描述举报理由,您最多可填200个字~";
+"feedBack.informTypeTitle" = "选择违规类型";
+"feedBack.informDes" = "举报描述";
+"feedBack.informTitle" = "举报";
+"feedBack.commit" = "提交";
+"feedBack.reusltDesc" = "您提交的问题已收到，请等待回馈~";
+"copyToBoard" = "已复制到剪切板";
+
+
+
+// Search Module
+"By Product Name" = "按产品名称";
+"By HS Code" = "按 HS 编码";
+"Search" = "搜索";
+"Reset" = "重置";
+"Advance Filters" = "高级过滤器";
+"Data Type" = "数据类型";
+"Supplier" = "供应商";
+"Buyer" = "买方";
+"Enter the product name" = "输入产品名称";
+"Enter a customs code of 6 digits or more" = "输入 6 位或更多数字的海关代码";
+"Import Data" = "导入数据";
+"Export Data" = "导出数据";
+"Trading hours" = "交易时间";
+"Purchasing Country" = "采购国家";
+"Supplying Country" = "供应国";
+"Please select supplying country" = "请选择供货国家";
+"Please select purchasing country" = "请选择购买国家";
+"Port of Entry" = "入境口岸";
+"Export Port" = "出口港";
+"Please enter export port" = "请输入出口港";
+"Please enter port of entry" = "请输入入境口岸";
+"success" = "成功";
+"failure" = "失败";
+"Please select an item." = "请选择一个项目。";
+"Please enter buyer's name" = "请输入买家姓名";
+"Please enter suppplier's name" = "请输入供应商名称";
+"Total" = "全部的";
+"trade records" = "交易记录";
+"No Data Found" = "没有找到数据";
+"Quantity" = "数量";
+"Trading Products" = "交易产品";
+"Suppliers" = "供应商";
+"Buyers" = "买家";
+"Weight" = "重量";
+"Trade Records" = "交易记录";
+"Trade Information" = "贸易信息";
+"Product status" = "产品状态";
+"Buyer Information" = "买家信息";
+"Supplier Information" = "供应商信息";
+"Transaction Date" = "交易日期";
+"Bill of Landing Number" = "提单号码";
+"Mode of transport" = "运输方式";
+"Port of entry" = "入境口岸";
+"Export Port" = "出口港";
+"HS Code" = "海关编码";
+"Amount (USD)" = "金额（美元）";
+"Company Name" = "公司名称";
+"Country" = "国家";
+"Company Contact" = "公司联系方式";
+"Trade Overview" = "贸易概况";
+"Transaction Records" = "交易记录";
+"Trade Area" = "贸易区";
+"Trading Ports" = "贸易港口";
+"Trading Port" = "贸易港";
+"Monthly" = "每月";
+"Yearly" = "每年";
+"Number of Transactions" = "交易数量";
+"Transactions Quantity" = "交易数量";
+"Transaction Weight" = "交易权重";
+"Transaction Times" = "交易时间";
+"Transaction Weight" = "交易权重";
+"Transaction Overview" = "交易概览";
+"You have exceed your points limit, please purchase a new plan for explore" = "“您已超出积分限制，请购买新的探索计划”";
+"Buy" = "买";
+"Risk Warning: It is possible that some companies may lack or have no data, or may delay the release of data. Please be aware of this." = "风险提示：部分​​企业可能缺少或没有数据，或延迟发布数据。请注意这一点。";
+"What you can explore after buy?" = "购买后可以探索什么？";
+"Buyer:" = "买方：";
+"Search list" = "搜索列表";
+"Search for buyers by product name or hscode, return to the buyer\'s company name, total transaction quantity, traded products, hscode (this field is empty), number of transactions that match the keyword, and total number of companies." = "按产品名称或hscode搜索买家，返回买家公司名称、总交易数量、交易产品、hscode（该字段为空）、符合关键字的交易数量、公司总数。";
+"Buyer Details:" = "买家详情：";
+"Transaction overview of the buyer within the past four years." = "买家近四年的交易概况。";
+"Trade partner" = "贸易伙伴";
+"The buyer\'s trade partner." = "买方的贸易伙伴。";
+"HSCODE" = "海关编码";
+"The hscode of the products purchased by the buyer." = "“买家购买的产品的hscode。”";
+"Trading Area" = "交易区";
+"The trading area of the buyer." = "买家的交易区域。";
+"Port Statistics" = "港口统计";
+"The buyer\'s trade port." = "买方的贸易港口。";
+"Search for buyers by product name or hscode, return to the buyer\'s company name, total transaction quantity, traded products, hscode (this field is empty), number of transactions that match the keyword, and total number of companies." = "按产品名称或hscode搜索买家，返回买家公司名称、总交易数量、交易产品、hscode（该字段为空）、符合关键字的交易数量、公司总数。";
+"Supplier Details:" = "供应商详情：";
+"Transaction overview of the supplier within the past four years." = "供应商近四年的交易概况。";
+"The supplier\'s trade partner." = "供应商的贸易伙伴。";
+"The hscode of the products purchased by the supplier." = "供应商购买的产品的hscode。";
+"The trading area of the supplier." = "供应商的交易区域。";
+"The supplier\'s trade port." = "供应商的贸易港口。";
+"Contact Information:" = "联系信息：";
+"Buyer/Supplier" = "买家/供应商";
+"Return to the publicly available contact information of the enterprise, such as official website, email, mobile phone, etc." = "返回企业公开的联系方式，如官网、邮箱、手机等。";
+"Customs Data:" = "海关数据：";
+"Customs data search list" = "海关数据查询清单";
+"Searching by using data type, product name/hscode and other parameters, return to customs data list" = "使用数据类型、品名/hscode等参数检索，返回海关数据列表";
+"Buyer\'s trade data" = "买家贸易数据";
+"The trade details of the designated buyer, including trading partners, HS codes, trade regions and port statistics." = "指定买家的贸易详情，包括贸易伙伴、HS编码、贸易区域和港口统计数据。";
+"Supplier\'s trade data" = "供应商贸易数据";
+"The trade details of the designated supplier, including trading partners , HS codes, trade regions and port statistics." = "指定供应商的贸易详情，包括贸易伙伴、HS编码、贸易区域和港口统计数据。";
+"Please Enter " = "请输入";
+"Name" = "姓名";
+"Please Enter Product Name" = "请输入产品名称";
+"Trading Product" = "交易产品";
+"Trading hours" = "交易时间";
+"Trading Ports" = "贸易港口";
+"B/L Number" = "提单号码";
+"Country/Region" = "国家/地区";
+"Search" = "搜索";
+"Select Country" = "选择国家";
+"Please Enter HS Code" = "请输入HS编码";
+"Please Enter Trading Ports" = "请输入交易端口";
+"Please Enter B/L Number" = "请输入提单号";
+"Please enter supplier name" = "请输入供应商名称";
+"Please enter Country/Region" = "请输入国家/地区";
+"Country/Region" = "国家/地区";
+"Supplier Name" = "供应商名称";
+"Please enter hs code" = "请输入HS编码";
+"Please enter region name" = "请输入地区名称";
+"Please enter port name" = "请输入端口名称";
+"transaction recods" = "交易记录";
+"Transaction Year" = "交易年份";
+"Port Name" = "端口名称";
+"HS Code Name" = "HS编码名称";
+"Region Name" = "地区名称";
+"Number of transactions" = "交易数量";
+"Proportion" = "部分";
+"Number of transactions" = "交易数量";
+"Basic" = "基本的";
+"Premium" = "优质的";
+"Enterprise" = "企业";
+"(1 Query)" = "(1 条查询)";
+"(30 Query)" = "(30条查询)";
+"(100 Query)" = "(100条查询)";
+"(66.7% off)" = "（66.7折）";
+"(80% off)" = "（80% 折扣）";
+"Contact Details" = "联系方式";
+"Official Website" = "官方网站";
+"Social Media" = "社交媒体";
+"Facebook" = "Facebook";
+"Twitter" = "叽叽喳喳";
+"Youtube" = "YouTube";
+"Contact Information" = "联系信息";
+"Contact Person/Position" = "联系人/职位";
+"Please select payment method!" = "请选择付款方式！";
+"Alipay" = "支付宝";
+"PayPal" = "贝宝";
+"HS Code Details" = "HS编码详情";
+"Supplier Details" = "供应商详情";
+"TradeArea Details" = "贸易区详情";
+"Trade Port Details" = "贸易港口详情";
+"Details" = "细节";
+"Number of transactions between the two parties" = "双方交易笔数";
+"The proportion of transactions between the two parties to the total number of transactions of the company" = "双方交易额占公司交易总额的比例";
+"Total number of transactions" = "交易总数";
+"Latest trading time" = "最近交易时间";
+"Amount" = "数量";
+"Port of entry" = "入境口岸";
+"View All Data" = "查看所有数据";
+"Total trade volume by HS code" = "按 HS 代码划分的总贸易量";
+"The total trade volume of the port" = "港口贸易总额";
+"   All    " = "   全部    ";
+" Email " = " 电子邮件 ";
+" Whatsapp " = " Whatsapp ";
+" Telephone " = "电话";
+"trade records between the two parties" = "双方交易记录";
+

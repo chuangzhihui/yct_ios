@@ -1,0 +1,66 @@
+/* 
+  Home.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/11.
+  
+*/
+//"tab.List" = "Global \nTrade Database";
+//"tab.List" = "Suppliers & Buyers";
+"tab.List" = "Buyers";
+"tab.foryou" = "For you";
+"tab.life" = "Vibe";
+"tab.follow" = "Follow";
+"tab.ai" = "AI";
+"tab.publish.normalUserLimit" = "Regular users cannot release videos~";
+
+"tabHot.HotSearchList" = "Hot search";
+"tabHot.HotBrandList" = "Hot brand";
+
+"search.search" = "Search";
+"search.cate" = "cate";
+"search.placeHolder" = "Search commodity or factory";
+"search.historyClear" = "Clear the search history";
+"search.confirmHistoryClear" = "Are you sure to clear the search history?";
+"search.hot" = "Hot";
+"search.SearchHistory" = "Search history";
+"search.Guess" = "You may like";
+"search.HotSearch" = "Trending search";
+"search.open" = "Unfold";
+"search.packUp" = "Fold";
+"search.ChangeIt" = "Change";
+"search.tabAll" = "General";
+"search.tabVideo" = "Video";
+"search.tabUser" = "User";
+"search.vender" = "Manufacturer";
+"search.production" = "Opus";
+"search.recommend" = "Recommend";
+"search.noSearch" = "Not found~";
+"search.selectedArea" = "Select area";
+
+"comment.reply" = "Reply";
+"comment.copy" = "Copy";
+"comment.unfold" = "Unfold all";
+"comment.author" = "Author";
+"comment.me" = "Me";
+"comment.LeaveAComment" = "Leave a comment below";
+"comment.numberOfComments" = "%ldComments";
+"comment.replyTo" = "Reply to%@";
+"comment.success" = "Comment success";
+
+"video.saveSuccess" = "Video saved successfully!";
+"video.saveFail" = "The video cannot be saved to the album";
+"video.permissionSetting" = "Privacy settings";
+"video.mySubscribe" = "Following";
+
+"ai.openaiName" = "OpenAI";
+"ai.commerceName" = "AI e-commerce";
+"ai.suppliersName" = "There are suppliers and importers from 200 countries around the world here";
+"ai.openai" = "Ftozon Building With OpenAI。";
+"ai.commerce" = "Which factory product do you want to buy? You can come in and discuss product details with AI and directly transact with the factory. The factory will build a shop through AI and let AI directly connect with you.";
+"ai.suppliers" = "Global suppliers and importers, (Our data is sourced from third-party sources and is also publicly traded globally. We do not assume any legal responsibility.)";
+"ai.myAi" = "My AI(you can have your own one)";
+"ai.buy" = "Buy";
+"ai.productClassification" = "Product classification";
+
+"home.becomeCompanySuccessPrompt" = "Thank you very much!\n\nYour payment has been successful!\n\nFrom now on—and in the future\nyou can tap the “+” button\nat the bottom to upload videos to\npromote your business.\n\nFeel free to use our app's All the\nauxiliary tools\nIncluding: live streaming, editing,\nbeautification, AI e-commerce,\nthe AI video generation and\nother features.";

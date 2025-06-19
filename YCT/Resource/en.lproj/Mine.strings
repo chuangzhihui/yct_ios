@@ -1,0 +1,352 @@
+/* 
+  Mine.strings
+  YCT
+
+  Created by 木木木 on 2021/12/12.
+  
+*/
+
+"others.follow" = "Follow";
+"others.followed" = "Followed";
+"others.add" = "Follow";
+"others.message" = "Message";
+"others.alert.blockwhispers" = "Message blocked";
+"others.alert.likesListBlock" = "Likes blocked";
+"others.alert.fansListBlock" = "Followers blocked";
+"others.alert.followListBlock" = "Following blocked";
+
+"others.title.hisFans" = "His follower";
+"others.title.hisFollow" = "His following";
+
+"mine.title.mine" = "Me";
+"mine.editInformation" = "Perfect data";
+"mine.payToAuth" = "pay to auth";
+
+"mine.addVendor" = "Add Mfg."; // manufacturer
+"mine.likesCount" = "Likes";
+"mine.attentionCount" = "Follow";
+"mine.fansCount" = "Followers";
+"mine.briefPlaceholder" = "Click to add a profile....";
+"mine.IDTitle" = "ID:";
+"mine.addTagText" = "+Add tags";
+"mine.mine.works" = "Opus";
+"mine.mine.likes" = "Likes";
+"mine.mine.collected" = "Favorites";
+"mine.mine.audit" = "Pending";
+"mine.mine.drafts" = "Draft box";
+"mine.mine.top" = "Top";
+"mine.mine.hot" = "Trending video";
+"mine.userInfo.set" = "Set it up";
+"mine.userInfo.modifyBrief" = "Change profile";
+"mine.userInfo.modifyTags" = "Change tags";
+"mine.userInfo.basicInfo" = "Basic Info";
+"mine.userInfo.vendorIntro" = "MORE";
+"mine.userInfo.normalIntro" = "Introduction";
+"mine.userInfo.tagsTitle" = "Tags:";
+"mine.userInfo.briefTitle" = "Profile:";
+"mine.userInfo.vendorTitle" = "Contacts:";
+"mine.userInfo.tagPlaceholder" = "Add tags to increase exposure rate~";
+"mine.userInfo.becomeCompany" = "Become manufacturer";
+"mine.userInfo.briefPlaceholder" = "Complete profiles to increase exposure rate~";
+"mine.userInfo.businessBriefPlaceholder" = "Complete company introduction to increase exposure rate~";
+"mine.userInfo.businessBriefPlaceholder.other" = "No more";
+"mine.userInfo.briefTruncationToken" = "[Full Text]";
+
+"mine.title.myPost" = "Post of Supply&Demand";
+"mine.post.reEdit" = "Reedit";
+"mine.post.offTheShelf" = "Remove";
+"mine.post.delete" = "Delete";
+"mine.post.all" = "All";
+"mine.post.display" = "Display";
+"mine.post.audit" = "Pending";
+"mine.post.failed" = "Failed";
+"mine.post.removed" = "Removed";
+
+"mine.alert.viewHistory.clearAlert" = "Are you sure to clear your watching history?";
+"mine.alert.deleteVideo" = "Are you sure to delete?";
+
+"mine.title.viewHistory" = "Watching history";
+"mine.viewHistory.clear" = "Clear";
+
+"mine.title.myQRCode" = "QR Code";
+"mine.myQRCode.share" = "Share";
+"mine.myQRCode.scan" = "Scan";
+"mine.myQRCode.save" = "Save";
+"mine.myQRCode.private" = "Message";
+"mine.myQRCode.friends" = "Friends circle";
+"mine.myQRCode.weChat" = "Wechat";
+"mine.myQRCode.slogon" = "Scan to follow";
+
+"mine.title.edit" = "Edit profile";
+"mine.edit.male" = "Male";
+"mine.edit.female" = "Female";
+"mine.edit.clickChangeImage" = "Click to change profile photo";
+
+"mine.title.modifyId" = "Change ID";
+"mine.title.modifyNickname" = "Change nickname";
+"mine.title.modifyBriefIntro" = "Change introduction";
+"mine.title.inputNickName" = "Please enter nickname";
+"mine.title.carousel" = "Carousel";
+"mine.title.personalityLabel" = "Tags";
+"mine.title.modifyDirection" = "Change leading commodity";
+
+"mine.edit.nickname" = "Nickname";
+"mine.edit.ID" = "ID";
+"mine.edit.briefIntro" = "Introduction";
+"mine.edit.birthday" = "Date of birth";
+"mine.edit.location" = "Location";
+"mine.edit.QRCode" = "QR code";
+"mine.edit.backgroundImage" = "Background image";
+"mine.edit.carousel" = "Carousel";
+"mine.edit.personalityLabel" = "Tags";
+"mine.edit.mainProduct" = "Leading commodity";
+"mine.edit.regMobile" = "Register number";
+"mine.modify.nickname" = "Nickname can be changed 4 times only within 30 days";
+"mine.modify.ID" = "The nickname contains 6 to 10 letters and numbers and can be changed only once";
+"mine.modify.IDAlert" = "ID can be changed only once";
+"mine.modify.briefIntro" = "Please enter your profile";
+"mine.modify.changeBg" = "Change background image";
+"mine.modify.addCarousel" = "+ add carousel";
+"mine.modify.addCarouselAlert" = "5 carousels can be added most";
+"mine.modify.stick" = "On top";
+"mine.modify.delete" = "Delete";
+"mine.modify.direction" = "";
+
+"mine.edit.placeholder.clickToSet" = "Click to set";
+"mine.edit.placeholder.changeBgImage" = "Change background image";
+"mine.edit.placeholder.userLabels" = "Add tags";
+
+"mine.save" = "Save";
+
+"mine.title.continent" = "Continent";
+"mine.title.country" = "Country";
+"mine.title.city" = "City";
+"mine.title.address" = "Address";
+
+"mine.title.goodsType" = "Catagory";
+
+"mine.title.more" = "More";
+"mine.more.myPost" = "Post of Supply&Demand";
+"mine.more.viewingHistory" = "Watching history";
+"mine.more.dataBoard" = "Data board";
+"mine.more.myService" = "Service";
+"mine.more.myServiceMobile" = "Service number";
+"mine.more.myQRCode" = "QR code";
+"mine.more.changeLanguage" = "Language";
+
+"mine.more.myAccount" = "Account";
+"mine.more.changePassword" = "Change password";
+"mine.more.changeMobile" = "Change phone number";
+"mine.more.cancelAccount" = "Abolish account";
+"mine.more.privacySettings" = "Privacy settings";
+"mine.more.upgradeToVendor" = "Upgrade profile";
+
+
+"mine.more.feedback" = "Feedback&Help";
+"mine.more.userAgreement" = "User agreement";
+"mine.more.privacyPolicy" = "Privacy policy";
+"mine.more.pact" = "Social self-discipline convention";
+"mine.more.aboutUs" = "About us";
+"mine.more.clearCache" = "Clear cache";
+"mine.more.clearCacheButton" = "Clear";
+"mine.more.logout" = "Logout";
+"mine.more.section.basic" = "Basics";
+"mine.more.section.account" = "Account settings";
+"mine.more.section.about" = "About";
+"mine.more.notSetPsw" = "Not set";
+
+"mine.tips.changeLanguage" = "Are you sure to change language?";
+"mine.tips.cancelAccount" = "Are you sure to abolish the account?";
+
+"mine.title.scan" = "Scan";
+"mine.scan.ready" = "Camera is activating";
+
+"mine.empty.works.action" = "Post";
+
+"mine.title.password" = "Change password";
+"mine.password.save" = "Save";
+"mine.password.newPassword" = "New password";
+"mine.password.placeHolder.newPassword" = "Please enter a new password";
+"mine.password.placeHolder.reNewPassword" = "Please confirm the password";
+"mine.password.alert.password" = "The two passwords you entered did not match";
+
+"mine.title.changeMobilePhoneNo" = "Change phone number";
+"mine.changeMobilePhoneNo.oriPhoneNo" = "Old phone number";
+"mine.changeMobilePhoneNo.placeHolder.oriPhoneNo" = "Please enter your old phone number";
+"mine.changeMobilePhoneNo.newPhoneNo" = "New phone number";
+"mine.changeMobilePhoneNo.placeHolder.newPhoneNo" = "Please enter your new phone number";
+"mine.changeMobilePhoneNo.alert" = "The new phone number cannot be the same as the old one";
+"mine.changeMobilePhoneNo.alert.checkOriPhoneNumber" = "Please enter a valid phone number";
+
+"mine.title.privacySetting" = "Privacy settings";
+"mine.privacy.homepageLikesList" = "Favorite";
+"mine.privacy.privateMsg" = "Who can send message to me";
+"mine.privacy.followFans" = "Following&Followers";
+"mine.privacy.blacklist" = "Blacklist";
+"mine.title.blacklist" = "Blacklist";
+"mine.privacy.myZanList.all" = "Public";
+"mine.privacy.myZanList.mutual" = "Friends";
+"mine.privacy.myZanList.none" = "Private";
+"mine.privacy.chatType.all" = "All";
+"mine.privacy.chatType.mutual" = "Friend";
+"mine.privacy.chatType.none" = "Close";
+"mine.privacy.myFansList.all" = "Public";
+"mine.privacy.myFansList.mutual" = "Friends";
+"mine.privacy.myFansList.none" = "Private";
+
+"mine.privacy.zanTitle" = "Likes";
+"mine.privacy.msgTitle" = "Who can send messages to me";
+"mine.privacy.followFansTitle" = "Following&Followers";
+"mine.privacy.title.all" = "All";
+"mine.privacy.title.friend" = "Friends";
+"mine.privacy.title.close" = "Close";
+"mine.privacy.title.public" = "Public";
+"mine.privacy.title.privacy" = "Private";
+"mine.privacy.subtitle.friend" = "(Friends)";
+"mine.privacy.subtitle.close" = "(Private message is prohibited)";
+"mine.privacy.subtitle.privacy" = "(Me)";
+"mine.privacy.unblock" = "Unblock";
+"mine.privacy.block" = "Block";
+
+"mine.feedback.feedback" = "Feedback";
+
+"mine.title.upgradeToVendor" = "Upgrade profile";
+"mine.upgradeToVendor.companyName" = "Company name";
+"mine.upgradeToVendor.companyName.placeholder" = "Please enter the company name";
+"mine.upgradeToVendor.area" = "Area";
+"mine.upgradeToVendor.area.placeholder" = "Please select a province or city";
+"mine.upgradeToVendor.detailAddress" = "Address";
+"mine.upgradeToVendor.detailAddress.placeholder" = "Please enter the company address";
+"mine.upgradeToVendor.website" = "Website";
+"mine.upgradeToVendor.website.placeholder" = "Please enter the company website";
+"mine.upgradeToVendor.socialCode" = "Unified social credit code";
+"mine.upgradeToVendor.socialCode.placeholder" = "Please enter the unified social credit code";
+"mine.upgradeToVendor.companyType" = "Company type";
+"mine.upgradeToVendor.companyType.placeholder" = "Please enter the company type";
+"mine.upgradeToVendor.foundDate" = "Register date";
+"mine.upgradeToVendor.foundDate.placeholder" = "Please enter the register date";
+"mine.upgradeToVendor.businessTerm" = "Operation period";
+"mine.upgradeToVendor.businessTerm.placeholder" = "Please enter the operation period";
+"mine.upgradeToVendor.legalRepresentative" = "Legal representative";
+"mine.upgradeToVendor.legalRepresentative.placeholder" = "Please enter the legal representative";
+"mine.upgradeToVendor.businessLicense" = "Business license";
+"mine.upgradeToVendor.companyDoorPhoto" = "Front view";
+"mine.upgradeToVendor.photo" = "Photo";
+"mine.upgradeToVendor.submit" = "Submit";
+"mine.upgradeToVendor.submit.alert" = "Submitted successfully, please wait patiently for background audit";
+"mine.upgradeToVendor.submit.buyunxu" = "The submitted information is under review and cannot be submitted repeatedly";
+
+"mine.updateVendorInfo.briefTitle" = "Profile:";
+"mine.updateVendorInfo.contactName" = "Contacts:";
+"mine.updateVendorInfo.contactNumber" = "Phone number:";
+"mine.updateVendorInfo.contactEmail" = "Email:";
+"mine.updateVendorInfo.productIntro" = "-Commodity introduction-";
+"mine.updateVendorInfo.addProduct" = "Add commodity image";
+
+"mine.completeVendorInfo.title" = "Manufacturer profile";
+"mine.completeVendorInfo.bgImage" = "Background image";
+"mine.completeVendorInfo.contact" = "Contacts";
+"mine.completeVendorInfo.contact.placeholder" = "Contacts";
+"mine.completeVendorInfo.phonenumber" = "Phone number";
+"mine.completeVendorInfo.phonenumber.placeholder" = "Phone number";
+"mine.completeVendorInfo.email" = "Email";
+"mine.completeVendorInfo.email.placeholder" = "Please enter the Email";
+"mine.completeVendorInfo.briefTitle" = "Profile";
+"mine.completeVendorInfo.briefTitle.placeholder" = "Please complete the profile";
+
+"mine.companyInfo.companyName" = "Company name:";
+"mine.companyInfo.companyDesc" = "Company profile:";
+"mine.companyInfo.mainProduct" = "Leading commodity:";
+"mine.companyInfo.industry" = "Field:";
+
+
+"mine.becomeCompany.img" = "Image";
+"mine.becomeCompany.submit" = "Submit";
+"mine.becomeCompany.desc" = "Please fill in the information carefully and truthfully in order to meet suitable clients fast!";
+"mine.becomeCompany.companyName" = "Company name";
+"mine.becomeCompany.companyNameP" = "Please enter the company name";
+"mine.becomeCompany.companyprofile" = "Company profile";
+"mine.becomeCompany.companyprofileP" = "Please complete the profile";
+"mine.becomeCompany.companyTags" = "Brand/Tag";
+"mine.becomeCompany.companyTagsP" = "Select brand/tag";
+"mine.becomeCompany.companyProduct" = "Leading commodity";
+"mine.becomeCompany.companyProductP" = "Please enter the leading commodity";
+"mine.becomeCompany.companyIndustry" = "Field";
+"mine.becomeCompany.companyIndustryP" = "Please select a field";
+"mine.becomeCompany.companyLocation" = "Location";
+"mine.becomeCompany.companyLocationP" = "Please select the location of company";
+"mine.becomeCompany.companyAddress" = "Address";
+"mine.becomeCompany.companyAddressP" = "Please enter the address of company";
+"mine.becomeCompany.companyCreditcode" = "Credit code";
+"mine.becomeCompany.companyCreditcodeP" = "Please enter the credit code of company";
+"mine.becomeCompany.companyType" = "Company type";
+"mine.becomeCompany.companyTypeP" = "Please enter the company type";
+"mine.becomeCompany.companyRepresentative" = "Legal representative";
+"mine.becomeCompany.companyRepresentativeP" = "Please enter the legal representative of company";
+"mine.becomeCompany.companyDate" = "Register date";
+"mine.becomeCompany.companyDateP" = "Please select the register date of company";
+"mine.becomeCompany.companyMoney" = "Registered capital";
+"mine.becomeCompany.companyMoneyP" = "Please enter the registered capital of company";
+"mine.becomeCompany.companylicense" = "Business license";
+"mine.becomeCompany.companylicenseP" = "Please upload the business license";
+"mine.becomeCompany.companyPhoto" = "Factory photo";
+"mine.becomeCompany.companyPhotoP" = "Please upload the factory photo";
+"mine.becomeCompany.companyDetails" = "Company details";
+"mine.becomeCompany.companyDetailsP" = "Please enter the company details";
+"mine.becomeCompany.companyContact" = "Contacts";
+"mine.becomeCompany.companyContactP" = "Please enter the company contact";
+"mine.becomeCompany.companyContactMobile" = "Phone number";
+"mine.becomeCompany.companyContactMobileP" = "Please enter the phone number of company";
+"mine.becomeCompany.companyWeb" = "Website";
+"mine.becomeCompany.companyWebP" = "Please enter the website of company";
+"mine.becomeCompany.companyEmail" = "Email";
+"mine.becomeCompany.companyEmailP" = "Please enter the company Email";
+"mine.becomeCompany.companyPic" = "Commodity image";
+"mine.becomeCompany.companyPicP" = "Please select commodity iamge";
+"mine.becomeCompany.select" = "Select";
+"mine.becomeCompany.footTip" = "Some functions will be restricted during the pending.Please improve the information as much as possible at one time and submit it with caution.";
+"mine.becomeCompany.chooseFirst" = "Please select a superior category first";
+"mine.becomeCompany.remove" = "Delete";
+"mine.becomeCompany.setTop" = "On Top";
+"mine.becomeCompany.jieshaoTitle" = "- Commodity introduction -";
+"mine.becomeCompany.add" = "Newly added";
+"mine.becomeCompany.removeComfirm" = "Confirm to delete this image?";
+"mine.becomeCompany.imgMax" = "Image size cannot exceed 2M";
+
+"mine.companyInfo.daima" = "Credit code:";
+"mine.companyInfo.leixing" = "Company type:";
+"mine.companyInfo.riqi" = "Registration date:";
+"mine.companyInfo.faren" = "Legal representative:";
+"mine.companyInfo.ziben" = "Registered capital:";
+"mine.companyInfo.diqu" = "Area:";
+"mine.companyInfo.dizhi" = "Address:";
+"mine.companyInfo.jieshao" = "Company details:";
+"mine.companyInfo.lianxiren" = "Contacts:";
+"mine.companyInfo.mobile" = "Phone number:";
+"mine.companyInfo.email" = "Email:";
+"mine.companyInfo.website" = "Webisite:";
+"mine.companyInfo.maxTag" = "You can only select 6 tags most!";
+
+"mine.scan.tips" = "Friendly tips";
+"mine.scan.tipsCamera" = "Please allow access to camera in settings";
+"mine.scan.tipsAudio" = "Please allow access to microphone in settings";
+"mine.scan.tipsPhoto" = "Please allow access to albums in settings";
+"mine.scan.tipsAddress" = "Please allow access to location information in settings";
+"mine.scan.ok" = "OK";
+"mine.scan.cancle" = "Cancel";
+
+"mine.service.s1" = "Service 1";
+"mine.service.s2" = "Service 2";
+
+"mine.version.title"="tips";
+"mine.version.content"="The current version is no longer available, please update and use it!";
+"mine.payment.alipay"="Alipay";
+"mine.payment.ok"="ok";
+"mine.payment.faile"="pay failed!";
+"mine.payment.place"="Please select payment method!";
+
+
+"mine.audit.wait"="Wait Audit";
+"mine.audit.pass"="Passed";
+"mine.audit.fail"="Failed";
+"mine.audit.auditList"="Audit List";

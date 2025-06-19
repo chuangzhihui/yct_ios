@@ -1,0 +1,55 @@
+/* 
+  Chat.strings
+  YCT
+
+  Created by 木木木 on 2021/12/21.
+  
+*/
+
+"chat.main.news" = "消息";
+"chat.main.friends" = "好友";
+
+"chat.main.interactiveMessage" = "互动消息";
+"chat.main.fans" = "粉丝";
+"chat.main.systomNotification" = "系统消息";
+"chat.sharedVideo" = "分享视频";
+
+"chat.cell.follow" = "关注";
+"chat.cell.refollow" = "回关";
+"chat.cell.followed" = "已关注";
+"chat.cell.mutualFollow" = "互相关注";
+"chat.main.message" = "发私信";
+
+"chat.title.addFriends" = "添加好友";
+"chat.search.placeholder" = "搜索用户名字/ID号";
+
+"chat.deleteChat" = "删除";
+"chat.deleteChatTips" = "确定删除该聊天？";
+"chat.clearChat" = "清空";
+"chat.clearAllChatHistoryTips" = "确定清空聊天记录？";
+"chat.stickOnTop" = "置顶";
+"chat.cancelStickOnTop" = "取消置顶";
+
+"chat.title.systemMsgs" = "系统消息";
+
+"chat.friends.online" = "在线";
+"chat.friends.offline" = "不在线";
+"chat.friends.yesterday_online" = "昨天在线";
+"chat.friends.2dayAgo_online" = "前天在线";
+"chat.friends.3dayAgo_online" = "3天前在线";
+"chat.friends.notFollowMe" = "Ta 没有关注我";
+"chat.friends.recommend" = "好友推荐";
+
+"chat.title.fans" = "粉丝";
+"chat.title.follow" = "关注";
+"chat.interaction.reply" = "回复了你";
+"chat.interaction.comment" = "评论了你";
+
+"chat.title.chatDetail" = "聊天详情";
+"chat.title.setAlias" = "设置备注";
+"chat.chatDetail.topChat" = "置顶聊天";
+"chat.chatDetail.topChatTips" = "请先发送消息后进行置顶";
+"chat.chatDetail.setAlias" = "设置备注";
+"chat.chatDetail.report" = "举报";
+"chat.chatDetail.block" = "拉黑";
+"chat.main.videoDeleted" = "视频已删除";

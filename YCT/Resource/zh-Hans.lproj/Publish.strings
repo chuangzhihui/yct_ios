@@ -1,0 +1,43 @@
+/* 
+  Publish.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/31.
+  
+*/
+"publish.video" = "视频";
+"publish.shot" = "拍摄";
+"publish.pic" = "照片";
+"publish.live" = "Live";
+"publish.choose_title"="请选择您想发布的栏目";
+"publish.choose_business"="企业";
+"publish.choose_personal"="个人";
+"publish.publish" = "发布";
+"publish.confirm" = "确定";
+"publish.topic" = "#话题";
+"publish.SelectTheCover" = "选择封面";
+"publish.whereAreYou" = "你在哪里";
+"publish.advancedSetting" = "高级设置";
+"publish.draft" = "草稿";
+"publish.saveDraft" = "保存草稿";
+"publish.isLandscape" = "是否横屏";
+"publish.goodsType" = "商品分类";
+"publish.goodsTypeP" = "请选择商品分类";
+
+"publish.allVisible" = "公开·所有人可见";
+"publish.friendVisible" = "互关朋友可见";
+"publish.privacy" = "私密";
+"publish.sub.friendVisible" = "（互关朋友和你可见）";
+"publish.sub.privacy" = "（仅自己可见）";
+"publish.publishContentPlaceHolder" = "请详细描述发布信息的内容并选择合适的话题，让更多人看到~";
+"publish.saveLocal" = "保存本地";
+"publish.canShare" = "允许分享";
+"publish.cancel" = "取消";
+"publish.queren" = "确认";
+"publish.visibleTitle" = "作品可见选择";
+"publish.backHome" = "返回首页";
+"publish.submitSuccess" = "提交成功";
+"publish.submitSubTitleSuccess" = "您发布的内容后台正在审核，审核通过后正式发布~~";
+"publish.submitSubTitleSuccessCaogao" = "已保存到草稿箱";
+"publish.pleaseInputContent" = "请先填写内容";
+"publish.quit" = "确认放弃当前编辑的内容？";

@@ -1,0 +1,51 @@
+/* 
+  Login.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/24.
+  
+*/
+"login.hello" = "Hello";
+"login.helloSubTitle" = "Log in now and let's get to know you~";
+"login.bind.helloSubTitle" = "Please bind your phone number before use~";
+
+"login.phoneNum" = "Email";
+"login.Captcha" = "Verification code";
+"login.Password" = "Password";
+"login.Obtain" = "Send verification code";
+
+"login.placeHolder.phoneNum" = "Please enter the email";
+"login.placeHolder.Captcha" = "Please enter the verification code";
+"login.placeHolder.Password" = "Please enter password";
+
+"login.coName" = "Name";
+"login.area" = "Area";
+"login.adress" = "Adress";
+"login.license" = "License";
+"login.head" = "Front View";
+"login.mainDirection" = "Main field";
+"login.mainDirection.placeHolder" = "Please enter the main field";
+"login.register" = "Register";
+"login.inputCoName" = "Please enter the company name";
+"login.chooseArea" = "Please select the province and region";
+"login.inputCoAdress" = "Please enter the company address";
+"login.photo" = "Photo";
+"login.titkeSettingAvatar" = "Click to set profile photo";
+
+"login.SignUp" = "Registration";
+"login.CaptchaLogin" = "Verification code";
+"login.PasswordLogin" = "Password";
+"login.login" = "Login";
+"login.confirm" = "Confirm";
+"login.forgetPass" = "Forget the password";
+
+"login.UserSignUp" = "User register";
+"login.firm" = "Manufacturer register";
+
+"login.rule" = "I have read and agreed to the <User Agreement> and <Privacy Policy>";
+"login.third" = "Third-party login";
+
+"login.user" = "<User Agreement>";
+"login.policy" = "<Privacy Policy>";
+
+"login.title.country" = "Select country";

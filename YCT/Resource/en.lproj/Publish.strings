@@ -1,0 +1,43 @@
+/* 
+  Publish.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/31.
+  
+*/
+"publish.video" = "Text To Video";
+"publish.shot" = "Photo";
+"publish.pic" = "Picture";
+"publish.live" = "Live";
+"publish.choose_title"="Choose a category and start uploading your video.";
+"publish.choose_business"="Business";
+"publish.choose_personal"="Personal";
+"publish.publish" = "Publish";
+"publish.confirm" = "Confirm";
+"publish.topic" = "#Topic";
+"publish.SelectTheCover" = "Select the cover";
+"publish.whereAreYou" = "Location";
+"publish.advancedSetting" = "Advanced setup";
+"publish.draft" = "Draft";
+"publish.saveDraft" = "Save draft";
+"publish.isLandscape" = "Landsacpe mode";
+"publish.goodsType" = "Category";
+"publish.goodsTypeP" = "Please select a category for commodity";
+
+"publish.allVisible" = "Publicly visible";
+"publish.friendVisible" = "Friends visible";
+"publish.privacy" = "Private";
+"publish.sub.friendVisible" = "(Friends and me)";
+"publish.sub.privacy" = "(Me)";
+"publish.publishContentPlaceHolder" = "Please describe the content of the post in detail and choose a topic appropriately for more users to see~";
+"publish.saveLocal" = "Save locally ";
+"publish.canShare" = "Allow share";
+"publish.cancel" = "Cancel";
+"publish.queren" = "Confirm";
+"publish.visibleTitle" = "Opus visible selection";
+"publish.backHome" = "Back to Home";
+"publish.submitSuccess" = "Submitted successfully";
+"publish.submitSubTitleSuccess" = "The content you posted is being reviewed now.It will be officially released after pending passed~~";
+"publish.submitSubTitleSuccessCaogao" = "Saved to draft box";
+"publish.pleaseInputContent" = "Please fill in the content first";
+"publish.quit" = "Are you sure to discard the current edit?";

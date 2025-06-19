@@ -1,0 +1,51 @@
+/* 
+  Login.strings
+  YCT
+
+  Created by hua-cloud on 2021/12/24.
+  
+*/
+"login.hello" = "您好！";
+"login.helloSubTitle" = "立即登录，让我们快点认识你吧~";
+"login.bind.helloSubTitle" = "请绑定手机号后使用~";
+
+"login.phoneNum" = "邮箱";
+"login.Captcha" = "验证码";
+"login.Password" = "密码";
+"login.Obtain" = "获取验证码";
+
+"login.placeHolder.phoneNum" = "请输入邮箱";
+"login.placeHolder.Captcha" = "请输入验证码";
+"login.placeHolder.Password" = "请输入密码";
+
+"login.coName" = "公司名称";
+"login.area" = "所在地区";
+"login.adress" = "详细地址";
+"login.license" = "营业执照";
+"login.head" = "公司门头照";
+"login.mainDirection" = "主营方向";
+"login.mainDirection.placeHolder" = "请输入主营方向";
+"login.register" = "注册";
+"login.inputCoName" = "请输入公司名称";
+"login.chooseArea" = "请选择省市区";
+"login.inputCoAdress" = "请输入公司详细地址";
+"login.photo" = "照片";
+"login.titkeSettingAvatar" = "点击设置头像";
+
+"login.SignUp" = "账号注册";
+"login.CaptchaLogin" = "验证码登录";
+"login.PasswordLogin" = "密码登录";
+"login.login" = "登录";
+"login.confirm" = "确认";
+"login.forgetPass" = "忘记密码";
+
+"login.UserSignUp" = "用户注册";
+"login.firm" = "厂商注册";
+
+"login.rule" = "我已阅读并同意《用户协议》 《隐私政策》";
+"login.third" = "第三方登录";
+
+"login.user" = "《用户协议》";
+"login.policy" = "《隐私政策》";
+
+"login.title.country" = "选择国家";

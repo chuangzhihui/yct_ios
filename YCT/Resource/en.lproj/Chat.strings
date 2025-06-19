@@ -1,0 +1,55 @@
+/* 
+  Chat.strings
+  YCT
+
+  Created by 木木木 on 2021/12/21.
+  
+*/
+
+"chat.main.news" = "News";
+"chat.main.friends" = "Friends";
+
+"chat.main.interactiveMessage" = "Interactions";
+"chat.main.fans" = "Followers";
+"chat.main.systomNotification" = "System info";
+"chat.sharedVideo" = "Share video";
+
+"chat.cell.follow" = "Follow";
+"chat.cell.refollow" = "Follow back";
+"chat.cell.followed" = "Following";
+"chat.cell.mutualFollow" = "Friend";
+"chat.main.message" = "Message";
+
+"chat.title.addFriends" = "Add friend";
+"chat.search.placeholder" = "Search user/ID";
+
+"chat.deleteChat" = "Delete";
+"chat.deleteChatTips" = "Are you sure to delete the chat?";
+"chat.clearChat" = "Clear";
+"chat.clearAllChatHistoryTips" = "Are you sure to clear the chat history?";
+"chat.stickOnTop" = "Stick on top";
+"chat.cancelStickOnTop" = "Cancle the top";
+
+"chat.title.systemMsgs" = "System message";
+
+"chat.friends.online" = "Online";
+"chat.friends.offline" = "Offline";
+"chat.friends.yesterday_online" = "Online Yesterday";
+"chat.friends.2dayAgo_online" = "Online 2 days ago";
+"chat.friends.3dayAgo_online" = "online 3 days ago";
+"chat.friends.notFollowMe" = "Ta not following";
+"chat.friends.recommend" = "Friends recommend";
+
+"chat.title.fans" = "Followers";
+"chat.title.follow" = "Follow";
+"chat.interaction.reply" = "Replied";
+"chat.interaction.comment" = "Commented";
+
+"chat.title.chatDetail" = "Details";
+"chat.title.setAlias" = "Set notes";
+"chat.chatDetail.topChat" = "Stick on top";
+"chat.chatDetail.setAlias" = "Set notes";
+"chat.chatDetail.report" = "Report";
+"chat.chatDetail.block" = "Block";
+"chat.chatDetail.topChatTips" = "Please send a message first";
+"chat.main.videoDeleted" = "The video has been deleted";

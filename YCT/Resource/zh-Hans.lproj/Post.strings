@@ -1,0 +1,45 @@
+/* 
+  Post.strings
+  YCT
+
+  Created by 木木木 on 2021/12/10.
+  
+*/
+
+"post.newest" = "最新";
+"post.supply" = "供应";
+"post.demand" = "需求";
+"post.releasePlaceHolder" = "请详细描述发布信息的内容";
+"post.release" = "发布";
+"post.addTag" = "品牌/标签";
+"post.phone" = "联系电话";
+"post.phonePlaceHolder" = "请输入您的联系方式~";
+"post.productType" = "商品分类";
+"post.productTypePlaceHolder" = "请选择商品分类";
+"post.district" = "所在地区";
+"post.districtPlaceHolder" = "请选择省市区";
+"post.site" = "详细地址";
+"post.sitePlaceHolder" = "请输入详细地址";
+"post.call" = "拨打电话";
+"post.message" = "私信他";
+"post.addSupply" = "供应信息";
+"post.addDemand" = "需求信息";
+"post.addLabelPlaceholder" = "#添加个性标签";
+
+"post.title.addSupply" = "供应发布";
+"post.title.addDemand" = "需求发布";
+"post.title.releaseDetail" = "信息详情";
+
+"post.alert.title" = "发布信息不能为空";
+"post.alert.site" = "请选择您的所在地址";
+"post.alert.phone" = "联系电话不能为空";
+"post.alert.address" = "详细地址不能为空";
+"post.alerrt.goodstype" = "商品分类不能为空";
+
+"post.title.success" = "提交成功";
+"post.success.info" = "您发布的内容后台正在审核，审核通过后 正式发布~";
+"post.success.back" = "返回首页";
+
+"post.time.yesterday" = "昨天发布";
+"post.time.suffix" = "发布";
+"post.time.empty" = "暂无数据!";

@@ -1,0 +1,351 @@
+/* 
+  Mine.strings
+  YCT
+
+  Created by 木木木 on 2021/12/12.
+  
+*/
+
+"others.follow" = "关注";
+"others.followed" = "已关注";
+"others.add" = "关注";
+"others.message" = "发私信";
+"others.alert.blockwhispers" = "该用户私信已关闭";
+"others.alert.likesListBlock" = "用户禁止查看ta的喜欢列表";
+"others.alert.fansListBlock" = "用户禁止查看ta的粉丝列表";
+"others.alert.followListBlock" = "用户禁止查看ta的关注列表";
+
+"others.title.hisFans" = "他的粉丝";
+"others.title.hisFollow" = "他的关注";
+
+"mine.title.mine" = "个人中心";
+"mine.editInformation" = "完善厂家资料";
+"mine.payToAuth" = "付款认证";
+"mine.addVendor" = "添加厂商";
+"mine.likesCount" = "获赞";
+"mine.attentionCount" = "关注";
+"mine.fansCount" = "粉丝";
+"mine.briefPlaceholder" = "点击此处添加个人简介....";
+"mine.IDTitle" = "ID号：";
+"mine.addTagText" = "+添加个性标签";
+"mine.mine.works" = "作品";
+"mine.mine.likes" = "喜欢";
+"mine.mine.collected" = "收藏";
+"mine.mine.audit" = "审核中";
+"mine.mine.drafts" = "草稿箱";
+"mine.mine.top" = "置顶";
+"mine.mine.hot" = "热播";
+"mine.userInfo.set" = "立即设置";
+"mine.userInfo.modifyBrief" = "修改简介";
+"mine.userInfo.modifyTags" = "修改标签";
+"mine.userInfo.basicInfo" = "基本信息";
+"mine.userInfo.vendorIntro" = "厂家资料";
+"mine.userInfo.normalIntro" = "简介";
+"mine.userInfo.tagsTitle" = "标  签:";
+"mine.userInfo.briefTitle" = "简介：";
+"mine.userInfo.vendorTitle" = "联系信息：";
+"mine.userInfo.tagPlaceholder" = "设置标签提升曝光度，散发率翻倍~";
+"mine.userInfo.becomeCompany" = "成为厂商用户";
+"mine.userInfo.briefPlaceholder" = "添加个人简介，增加曝光率吧~";
+"mine.userInfo.businessBriefPlaceholder" = "添加厂家介绍，为您的公司增加曝光率吧~";
+"mine.userInfo.businessBriefPlaceholder.other" = "暂无";
+"mine.userInfo.briefTruncationToken" = "[全文]";
+
+"mine.title.myPost" = "我发布的供需";
+"mine.post.reEdit" = "重新编辑";
+"mine.post.offTheShelf" = "下架";
+"mine.post.delete" = "删除";
+"mine.post.all" = "全部";
+"mine.post.display" = "展示中";
+"mine.post.audit" = "审核中";
+"mine.post.failed" = "审核失败";
+"mine.post.removed" = "已下架";
+
+"mine.alert.viewHistory.clearAlert" = "是否清空观看历史";
+"mine.alert.deleteVideo" = "是否删除？";
+
+"mine.title.viewHistory" = "观看历史";
+"mine.viewHistory.clear" = "清空";
+
+"mine.title.myQRCode" = "我的二维码";
+"mine.myQRCode.share" = "分享";
+"mine.myQRCode.scan" = "扫一扫";
+"mine.myQRCode.save" = "保存";
+"mine.myQRCode.private" = "私信朋友";
+"mine.myQRCode.friends" = "朋友圈";
+"mine.myQRCode.weChat" = "微信好友";
+"mine.myQRCode.slogon" = "扫一扫 立即关注我";
+
+"mine.title.edit" = "编辑资料";
+"mine.edit.male" = "男士";
+"mine.edit.female" = "女士";
+"mine.edit.clickChangeImage" = "点击更换头像";
+
+"mine.title.modifyId" = "修改ID号";
+"mine.title.modifyNickname" = "修改昵称";
+"mine.title.modifyBriefIntro" = "修改简介";
+"mine.title.inputNickName" = "请输入昵称";
+"mine.title.carousel" = "轮播图";
+"mine.title.personalityLabel" = "个性标签";
+"mine.title.modifyDirection" = "修改主营产品";
+
+"mine.edit.nickname" = "昵称";
+"mine.edit.ID" = "ID号";
+"mine.edit.briefIntro" = "简介";
+"mine.edit.birthday" = "生日";
+"mine.edit.location" = "所在地";
+"mine.edit.QRCode" = "二维码";
+"mine.edit.backgroundImage" = "主页背景图";
+"mine.edit.carousel" = "轮播图";
+"mine.edit.personalityLabel" = "个性标签";
+"mine.edit.mainProduct" = "主营产品";
+"mine.edit.regMobile" = "注册手机号码";
+"mine.modify.nickname" = "名字30天内修改4次";
+"mine.modify.ID" = "6-10位，只允许包含字母和数字，仅可修改1次";
+"mine.modify.IDAlert" = "ID仅可修改1次";
+"mine.modify.briefIntro" = "请输入个人简介";
+"mine.modify.changeBg" = "更换背景";
+"mine.modify.addCarousel" = "+ 添加轮播图";
+"mine.modify.addCarouselAlert" = "最多添加5张轮播图";
+"mine.modify.stick" = "置顶";
+"mine.modify.delete" = "删除";
+"mine.modify.direction" = "";
+
+"mine.edit.placeholder.clickToSet" = "点击设置";
+"mine.edit.placeholder.changeBgImage" = "更换背景图";
+"mine.edit.placeholder.userLabels" = "添加个性标签";
+
+"mine.save" = "保存";
+
+"mine.title.continent" = "大陆/洲";
+"mine.title.country" = "国家";
+"mine.title.city" = "城市";
+"mine.title.address" = "地址";
+
+"mine.title.goodsType" = "商品分类";
+
+"mine.title.more" = "更多";
+"mine.more.myPost" = "我发布的供需";
+"mine.more.viewingHistory" = "观看历史";
+"mine.more.dataBoard" = "数据看板";
+"mine.more.myService" = "我的客服";
+"mine.more.myServiceMobile" = "客服电话";
+"mine.more.myQRCode" = "我的二维码";
+"mine.more.changeLanguage" = "语言选择";
+
+"mine.more.myAccount" = "我的账户";
+"mine.more.changePassword" = "修改密码";
+"mine.more.changeMobile" = "修改手机号";
+"mine.more.cancelAccount" = "注销账号";
+"mine.more.privacySettings" = "隐私设置";
+"mine.more.upgradeToVendor" = "完善资料";
+
+
+"mine.more.feedback" = "反馈与帮助";
+"mine.more.userAgreement" = "用户协议";
+"mine.more.privacyPolicy" = "隐私政策";
+"mine.more.pact" = "社会自律公约";
+"mine.more.aboutUs" = "关于我们";
+"mine.more.clearCache" = "清理缓存";
+"mine.more.clearCacheButton" = "清理";
+"mine.more.logout" = "退出登录";
+"mine.more.section.basic" = "基本";
+"mine.more.section.account" = "账号设置";
+"mine.more.section.about" = "关于";
+"mine.more.notSetPsw" = "未设置";
+
+"mine.tips.changeLanguage" = "确定切换语言？";
+"mine.tips.cancelAccount" = "是否注销账号";
+
+"mine.title.scan" = "扫一扫";
+"mine.scan.ready" = "相机启动中";
+
+"mine.empty.works.action" = "去发布";
+
+"mine.title.password" = "修改密码";
+"mine.password.save" = "保存";
+"mine.password.newPassword" = "新密码";
+"mine.password.placeHolder.newPassword" = "请输入新密码";
+"mine.password.placeHolder.reNewPassword" = "请再次输入新密码";
+"mine.password.alert.password" = "两次输入的密码不一致";
+
+"mine.title.changeMobilePhoneNo" = "修改手机号";
+"mine.changeMobilePhoneNo.oriPhoneNo" = "原手机号";
+"mine.changeMobilePhoneNo.placeHolder.oriPhoneNo" = "请输入原手机号";
+"mine.changeMobilePhoneNo.newPhoneNo" = "新手机号";
+"mine.changeMobilePhoneNo.placeHolder.newPhoneNo" = "请输入新手机号";
+"mine.changeMobilePhoneNo.alert" = "新手机号不能和原手机号一致";
+"mine.changeMobilePhoneNo.alert.checkOriPhoneNumber" = "请输入正确的手机号";
+
+"mine.title.privacySetting" = "隐私设置";
+"mine.privacy.homepageLikesList" = "主页喜欢列表";
+"mine.privacy.privateMsg" = "谁可以私信我";
+"mine.privacy.followFans" = "关注和粉丝列表";
+"mine.privacy.blacklist" = "黑名单";
+"mine.title.blacklist" = "黑名单";
+"mine.privacy.myZanList.all" = "公开可见";
+"mine.privacy.myZanList.mutual" = "互关可见";
+"mine.privacy.myZanList.none" = "私密";
+"mine.privacy.chatType.all" = "所有人";
+"mine.privacy.chatType.mutual" = "互关朋友";
+"mine.privacy.chatType.none" = "关闭";
+"mine.privacy.myFansList.all" = "公开可见";
+"mine.privacy.myFansList.mutual" = "互关可见";
+"mine.privacy.myFansList.none" = "私密";
+
+"mine.privacy.zanTitle" = "主页点赞列表";
+"mine.privacy.msgTitle" = "谁可以私信我";
+"mine.privacy.followFansTitle" = "关注和粉丝列表";
+"mine.privacy.title.all" = "所有人";
+"mine.privacy.title.friend" = "互关朋友";
+"mine.privacy.title.close" = "关闭";
+"mine.privacy.title.public" = "公开可见";
+"mine.privacy.title.privacy" = "私密";
+"mine.privacy.subtitle.friend" = "（互相关注的人）";
+"mine.privacy.subtitle.close" = "（不允许任何人私信我）";
+"mine.privacy.subtitle.privacy" = "（仅自己可见）";
+"mine.privacy.unblock" = "解除拉黑";
+"mine.privacy.block" = "拉黑";
+
+"mine.feedback.feedback" = "意见反馈";
+
+"mine.title.upgradeToVendor" = "完善资料";
+"mine.upgradeToVendor.companyName" = "公司名称";
+"mine.upgradeToVendor.companyName.placeholder" = "请输入公司名称";
+"mine.upgradeToVendor.area" = "所在地区";
+"mine.upgradeToVendor.area.placeholder" = "请选择省市区";
+"mine.upgradeToVendor.detailAddress" = "详细地址";
+"mine.upgradeToVendor.detailAddress.placeholder" = "请输入公司详细地址";
+"mine.upgradeToVendor.website" = "网址";
+"mine.upgradeToVendor.website.placeholder" = "请输入公司网址";
+"mine.upgradeToVendor.socialCode" = "统一社会信用代码";
+"mine.upgradeToVendor.socialCode.placeholder" = "请输入统一社会信用代码";
+"mine.upgradeToVendor.companyType" = "公司类型";
+"mine.upgradeToVendor.companyType.placeholder" = "请输入公司类型";
+"mine.upgradeToVendor.foundDate" = "成立日期";
+"mine.upgradeToVendor.foundDate.placeholder" = "请输入成立日期";
+"mine.upgradeToVendor.businessTerm" = "营业期限";
+"mine.upgradeToVendor.businessTerm.placeholder" = "请输入营业期限";
+"mine.upgradeToVendor.legalRepresentative" = "法定代表人";
+"mine.upgradeToVendor.legalRepresentative.placeholder" = "请输入法定代表人";
+"mine.upgradeToVendor.businessLicense" = "营业执照";
+"mine.upgradeToVendor.companyDoorPhoto" = "公司门口照";
+"mine.upgradeToVendor.photo" = "照片";
+"mine.upgradeToVendor.submit" = "提交";
+"mine.upgradeToVendor.submit.alert" = "提交成功，请耐心等待后台审核";
+"mine.upgradeToVendor.submit.buyunxu" = "提交资料在审核中，不能重复提交";
+
+"mine.updateVendorInfo.briefTitle" = "简介:";
+"mine.updateVendorInfo.contactName" = "联系人:";
+"mine.updateVendorInfo.contactNumber" = "联系电话:";
+"mine.updateVendorInfo.contactEmail" = "联系邮箱:";
+"mine.updateVendorInfo.productIntro" = "-产品介绍-";
+"mine.updateVendorInfo.addProduct" = "添加产品图片";
+
+"mine.completeVendorInfo.title" = "厂家简介";
+"mine.completeVendorInfo.bgImage" = "背景图";
+"mine.completeVendorInfo.contact" = "联系人";
+"mine.completeVendorInfo.contact.placeholder" = "联系人";
+"mine.completeVendorInfo.phonenumber" = "联系电话";
+"mine.completeVendorInfo.phonenumber.placeholder" = "联系电话";
+"mine.completeVendorInfo.email" = "联系邮件";
+"mine.completeVendorInfo.email.placeholder" = "请输入联系邮件";
+"mine.completeVendorInfo.briefTitle" = "简介";
+"mine.completeVendorInfo.briefTitle.placeholder" = "请输入简介";
+
+"mine.companyInfo.companyName" = "公司名称：";
+"mine.companyInfo.companyDesc" = "公司简介：";
+"mine.companyInfo.mainProduct" = "主营产品：";
+"mine.companyInfo.industry" = "所属行业：";
+
+
+"mine.becomeCompany.img" = "图片";
+"mine.becomeCompany.submit" = "提交";
+"mine.becomeCompany.desc" = "请认真如实填写资料，让合适的客户快速找到您!";
+"mine.becomeCompany.companyName" = "公司名称";
+"mine.becomeCompany.companyNameP" = "请输入公司名称";
+"mine.becomeCompany.companyprofile" = "公司简介";
+"mine.becomeCompany.companyprofileP" = "请输入公司简介";
+"mine.becomeCompany.companyTags" = "品牌/标签";
+"mine.becomeCompany.companyTagsP" = "请选择品牌/标签";
+"mine.becomeCompany.companyProduct" = "主营产品";
+"mine.becomeCompany.companyProductP" = "请输入公司主营产品";
+"mine.becomeCompany.companyIndustry" = "所属行业";
+"mine.becomeCompany.companyIndustryP" = "请选择所属行业";
+"mine.becomeCompany.companyLocation" = "所在地区";
+"mine.becomeCompany.companyLocationP" = "请选择公司所在地区";
+"mine.becomeCompany.companyAddress" = "详细地址";
+"mine.becomeCompany.companyAddressP" = "请输入公司详细地址";
+"mine.becomeCompany.companyCreditcode" = "信用代码";
+"mine.becomeCompany.companyCreditcodeP" = "请输入公司信用代码";
+"mine.becomeCompany.companyType" = "公司类型";
+"mine.becomeCompany.companyTypeP" = "请输入公司类型";
+"mine.becomeCompany.companyRepresentative" = "法人代表";
+"mine.becomeCompany.companyRepresentativeP" = "请输入公司法人代表";
+"mine.becomeCompany.companyDate" = "成立日期";
+"mine.becomeCompany.companyDateP" = "请选择公司成立日期";
+"mine.becomeCompany.companyMoney" = "注册资本";
+"mine.becomeCompany.companyMoneyP" = "请输入公司注册资本";
+"mine.becomeCompany.companylicense" = "营业执照";
+"mine.becomeCompany.companylicenseP" = "请上传营业执照";
+"mine.becomeCompany.companyPhoto" = "厂区照片";
+"mine.becomeCompany.companyPhotoP" = "请上传厂区照片";
+"mine.becomeCompany.companyDetails" = "公司详细介绍";
+"mine.becomeCompany.companyDetailsP" = "请输入公司详细介绍";
+"mine.becomeCompany.companyContact" = "联系人";
+"mine.becomeCompany.companyContactP" = "请输入公司联系人";
+"mine.becomeCompany.companyContactMobile" = "联系电话";
+"mine.becomeCompany.companyContactMobileP" = "请输入公司联系人电话";
+"mine.becomeCompany.companyWeb" = "官方网站";
+"mine.becomeCompany.companyWebP" = "请输入公司官方网站";
+"mine.becomeCompany.companyEmail" = "公司邮箱";
+"mine.becomeCompany.companyEmailP" = "请输入公司邮箱";
+"mine.becomeCompany.companyPic" = "产品图片介绍";
+"mine.becomeCompany.companyPicP" = "请选择产品图片";
+"mine.becomeCompany.select" = "请选择";
+"mine.becomeCompany.footTip" = "在等待平台审核阶段会限制某些功能的使用，请尽可能一次性完善资料，谨慎提交";
+"mine.becomeCompany.chooseFirst" = "请先选择上级分类";
+"mine.becomeCompany.remove" = "删除";
+"mine.becomeCompany.setTop" = "置顶";
+"mine.becomeCompany.jieshaoTitle" = "- 产品介绍 -";
+"mine.becomeCompany.add" = "新增";
+"mine.becomeCompany.removeComfirm" = "确认删除该图片?";
+"mine.becomeCompany.imgMax" = "图片最大不能超过2M";
+
+"mine.companyInfo.daima" = "信用代码:";
+"mine.companyInfo.leixing" = "公司类型:";
+"mine.companyInfo.riqi" = "注册日期:";
+"mine.companyInfo.faren" = "法人代表:";
+"mine.companyInfo.ziben" = "注册资本:";
+"mine.companyInfo.diqu" = "所在地区:";
+"mine.companyInfo.dizhi" = "详细地址:";
+"mine.companyInfo.jieshao" = "公司详细介绍:";
+"mine.companyInfo.lianxiren" = "联系人:";
+"mine.companyInfo.mobile" = "联系电话:";
+"mine.companyInfo.email" = "公司邮箱:";
+"mine.companyInfo.website" = "官方网站:";
+"mine.companyInfo.maxTag" = "最大仅允许选择六个标签!";
+
+"mine.scan.tips" = "温馨提示";
+"mine.scan.tipsCamera" = "请在设置中允许访问相机";
+"mine.scan.tipsAudio" = "请在设置中允许访问麦克风";
+"mine.scan.tipsPhoto" = "请在设置中允许访问相册";
+"mine.scan.tipsAddress" = "请在设置中允许访问位置信息";
+"mine.scan.ok" = "确定";
+"mine.scan.cancle" = "取消";
+
+"mine.service.s1" = "客服一";
+"mine.service.s2" = "客服二";
+
+"mine.version.title"="提示";
+"mine.version.content"="当前版本已不可用，请更新后使用!";
+
+"mine.payment.alipay"="支付宝";
+"mine.payment.ok"="确认";
+"mine.payment.faile"="扣款失败!";
+"mine.payment.place"="请选择支付方式!";
+
+"mine.audit.wait"="待审核";
+"mine.audit.pass"="审核通过";
+"mine.audit.fail"="审核失败";
+"mine.audit.auditList"="审核列表";

@@ -1,0 +1,45 @@
+/* 
+  Post.strings
+  YCT
+
+  Created by 木木木 on 2021/12/10.
+  
+*/
+
+"post.newest" = "Newest";
+"post.supply" = "Supply";
+"post.demand" = "Demand";
+"post.releasePlaceHolder" = "Please describe the content of the post in detail";
+"post.release" = "Release";
+"post.addTag" = "Brand/Tag";
+"post.phone" = "Phone number";
+"post.phonePlaceHolder" = "Please enter your contact details~";
+"post.productType" = "Commodity catagory";
+"post.productTypePlaceHolder" = "Select a catagory for commodity";
+"post.district" = "Location";
+"post.districtPlaceHolder" = "Please select a province or city";
+"post.site" = "Address";
+"post.sitePlaceHolder" = "Please enter the address";
+"post.call" = "Call";
+"post.message" = "Message";
+"post.addSupply" = "Supply info";
+"post.addDemand" = "Demand info";
+"post.addLabelPlaceholder" = "#Add tags";
+
+"post.title.addSupply" = "Supply post";
+"post.title.addDemand" = "Demand post";
+"post.title.releaseDetail" = "Details";
+
+"post.alert.title" = "The post cannot be empty";
+"post.alert.site" = "Please select your address";
+"post.alert.phone" = "The phone number cannot be empty ";
+"post.alert.address" = "The address cannot be empty";
+"post.alerrt.goodstype" = "The commodity catagory cannot be empty";
+
+"post.title.success" = "Submitted successfully";
+"post.success.info" = "The content you posted is being reviewed now.It will be officially released after pending passed~";
+"post.success.back" = "Back to Home";
+
+"post.time.yesterday" = "Posted Yesterday";
+"post.time.suffix" = "Post";
+"post.time.empty" = "No Data!";
